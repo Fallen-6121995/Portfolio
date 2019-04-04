@@ -1,0 +1,106 @@
+.background-image
+{
+    background-image: url("images/agenda-3511208.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 93.2vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-top: -20px;
+    opacity: 0.2;
+    position: relative;
+}
+.discription{
+    padding-top: 200px;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.skills{
+    margin-top: 12%;
+    margin-right: 10%;
+    padding: 16px 12.5%;
+    background: transparent;
+    border: 1px gray solid;
+    margin-left: 20%;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}
+.portfolio{
+    margin-left: 10%;
+    margin-top: 12%;
+    padding: 16px 10%;
+    background: transparent;
+    border: 1px gray solid;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}
+.portfolio a,.skills a{
+    text-decoration: none;
+    color: #222222;
+}
+.skill-container h1{
+    font-size: 3.5em;
+    font-weight: bold;
+}
+.portfolio:hover{
+    background: transparent;
+    border: 1px gray solid;
+}
+.skills:hover{
+    background: transparent;
+    border: 1px gray solid;
+}
+.skill-container p{
+    font-size: 1.8em;
+    margin-top: 3%;
+    margin-bottom: 8%;
+}
+.skillset,.technologies{
+    margin-bottom: 7%;
+}
+.skillset h2,.technologies h2{
+    margin-bottom: 5%;
+    font-size: 2.5em;
+    font-weight: 600;
+}
+.skillset h3,.technologies h3{
+    font-size: 1.7em;
+}
+.works h1{
+    font-size: 3.5em;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+.works p{
+    font-size: 1.8em;
+    margin-bottom: 6%;
+}
+.mockup{
+    margin-bottom: 8%;
+}
+.mockup h2,.logos h2{
+margin-bottom: 5%;
+font-size: 2.5em;
+font-weight: 600;
+}
+.graphics-sectiom{
+    margin-left: 50%;
+}
+.contact p{
+font-size: 1.8em;
+}
+.mail-link{
+    margin-top: 5%;
+}
+.mail-link a{
+    font-size: 2em;
+    text-decoration: none;
+}
+.mail-link h4{
+    font-size: 2.2em;
+}
